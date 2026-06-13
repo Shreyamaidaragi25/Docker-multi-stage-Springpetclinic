@@ -1,6 +1,6 @@
-# Spring PetClinic - Multi-Stage Docker & CI/CD Pipeline
+# Spring PetClinic - Multi-Stage Docker 
 
-This repository contains the containerized version of the **Spring PetClinic** application, optimized using a modern **Multi-Stage Docker architecture** and automated with **GitHub Actions**.
+This repository contains the containerized version of the **Spring PetClinic** application, optimized using a modern **Multi-Stage Docker architecture** .
 
 ---
 
