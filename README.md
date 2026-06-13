@@ -29,6 +29,8 @@ To minimize the final production footprint and improve security, this project le
 * Git installed locally.
 
 ### 1. Build the Docker Image
+Clone the repo into your remote machine
+
 From the root directory of the project, run the following command to execute the multi-stage build:
 ```bash
 docker build -t spring-petclinic:latest .
